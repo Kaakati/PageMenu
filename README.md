@@ -44,9 +44,8 @@
 
 ## Latest Update
 
-**1.2.8 Release (06/22/2015)**
-* Bug fixes
-* Obj-c more stable
+**(09/04/2018)**
+* Swift 4
 
 
 ## Description
