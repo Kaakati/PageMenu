@@ -1,46 +1,8 @@
 <img src="https://raw.githubusercontent.com/uacaps/ResourceRepo/master/PageMenu/PageMenuHeader3.png" alt="PageMenuHeader">
 
-[![Version](https://img.shields.io/cocoapods/v/PageMenu.svg?style=flat)](http://cocoapods.org/pods/PageMenu)
-[![License](https://img.shields.io/cocoapods/l/PageMenu.svg?style=flat)](http://cocoapods.org/pods/PageMenu)
-[![Platform](https://img.shields.io/cocoapods/p/PageMenu.svg?style=flat)](http://cocoapods.org/pods/PageMenu)
-[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
-
-### Unfortunately, life gets in the way sometimes and I won't be able to maintain this library any longer and upgrade this library to where it needs to be.
-
-#### Featured In
-<table>
- <tr>
- <td align="center">
-  <a href="https://itunes.apple.com/us/app/whatsport-connecting-sports/id1091156941"><img src="http://is3.mzstatic.com/image/thumb/Purple122/v4/64/d2/ee/64d2ee82-150d-a6fd-ab65-ec8641a979a4/source/100x100bb.jpg" /></a>
-  </td>
-  <td align="center">
-  <a href="https://itunes.apple.com/us/app/funny-or-die/id299546679?mt=8"><img src="http://a2.mzstatic.com/us/r30/Purple3/v4/7b/34/8a/7b348a8b-54d9-e1b2-f50b-a447f6dff4be/icon100x100.jpeg" /></a>
-  </td>
-  <td align="center">
-  <a href="https://itunes.apple.com/us/app/alabama-mvd/id399424940?mt=8"><img src="http://a1.mzstatic.com/us/r30/Purple7/v4/e8/f3/df/e8f3df11-5807-9f4c-9725-afb84b461804/icon100x100.png" /></a>
-  </td>
-  <td align="center">
-  <a href="https://itunes.apple.com/gb/app/healthful-work-smart-not-hard!/id970747415?mt="><img src="http://a3.mzstatic.com/eu/r30/Purple69/v4/8c/16/a4/8c16a419-8671-0b0d-e951-8e3f4eeea1f9/icon100x100.png" /></a>
-  </td>
-  <td align="center">
-  <a href="https://itunes.apple.com/us/app/bboy-event/id1067848402?mt=8"><img src="http://a4.mzstatic.com/us/r30/Purple20/v4/67/26/04/6726041c-5685-7537-cb68-76939df51e30/icon100x100.jpeg" /></a>
-  </td>
-  <tr>
-   <td align="center"><b>WhatSport</b></td>
-   <td align="center"><b>Funny Or Die</b></td>
-   <td align="center"><b>Alabama MVD</b></td>
-   <td align="center"><b>HEALTHFUL</b></td>
-   <td align="center"><b>Bboy Event</b></td>
-  </tr>
-  <tr>
-   <td align="center">SportsQuack LLC</td>
-   <td align="center">Funny Or Die, Inc.</td>
-   <td align="center">CAPS</td>
-   <td align="center">Junaid Younus</td>
-   <td align="center">Jazz Pixels ООО</td>
-  </tr>
- </tr>
-</table>
+[![Version](https://img.shields.io/cocoapods/v/PageMenu.svg?style=flat)](http://cocoapods.org/pods/PagerMenu)
+[![License](https://img.shields.io/cocoapods/l/PageMenu.svg?style=flat)](http://cocoapods.org/pods/PagerMenu)
+[![Platform](https://img.shields.io/cocoapods/p/PageMenu.svg?style=flat)](http://cocoapods.org/pods/PagerMenu)
 
 ## Latest Update
 
@@ -75,7 +37,9 @@ PageMenu is available through [CocoaPods](http://cocoapods.org). !! Swift only !
 
 To install add the following line to your Podfile:
 
+```
     pod 'PagerMenu', :git => "https://github.com/Kaakati/PageMenu.git", :branch => "2.0.1"
+```
 
 **Carthage**
 
