@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/uacaps/ResourceRepo/master/PageMenu/PageMenuHeader3.png" alt="PageMenuHeader">
 
-[![Version](https://img.shields.io/cocoapods/v/PageMenu.svg?style=flat)](http://cocoapods.org/pods/PageMenu)
-[![License](https://img.shields.io/cocoapods/l/PageMenu.svg?style=flat)](http://cocoapods.org/pods/PageMenu)
-[![Platform](https://img.shields.io/cocoapods/p/PageMenu.svg?style=flat)](http://cocoapods.org/pods/PageMenu)
+[![Version](https://img.shields.io/cocoapods/v/PageMenu.svg?style=flat)](http://cocoapods.org/pods/PagerMenu)
+[![License](https://img.shields.io/cocoapods/l/PageMenu.svg?style=flat)](http://cocoapods.org/pods/PagerMenu)
+[![Platform](https://img.shields.io/cocoapods/p/PageMenu.svg?style=flat)](http://cocoapods.org/pods/PagerMenu)
 
 ## Latest Update
 
@@ -37,7 +37,17 @@ PageMenu is available through [CocoaPods](http://cocoapods.org). !! Swift only !
 
 To install add the following line to your Podfile:
 
-    pod 'PagerMenu'
+```
+    pod 'PagerMenu', :git => "https://github.com/Kaakati/PageMenu.git", :branch => "2.0.1"
+```
+
+**Carthage**
+
+PageMenu is also available through [Carthage](https://github.com/carthage/carthage).  Append this line to Cartfile and follow [this instruction](https://github.com/carthage/carthage#adding-frameworks-to-an-application).
+
+```
+ // Not Supported Yet
+```
 
 **Manual Installation**
 
